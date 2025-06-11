@@ -1,4 +1,6 @@
-I'm **[`Mr.LionHacker404`](https://www.youtube.com/@LionHacker404)**, I’m a Professional Endpoint Certified Engineer and security researcher who wants to become a cybersecurity expert and bug finder. I really enjoy working with technology and have skills in studying harmful software, checking for security problems, and finding bugs. My goal is to protect online information and help make the internet safer for everyone.
+I'm **[`Mr.LionHacker404`](https://www.youtube.com/@LionHacker404)**, I’m a Professional Endpoint Certified Engineer and security researcher who wants to become a cybersecurity expert and bug finder. I really enjoy working with technology and have skills in studying harmful software, checking for security problems, and finding bugs. My goal is to protect online information and help make the internet safer for everyone.I have established a sturdy foundation of technical competencies and know-how, particularly in network operations, troubleshooting.
+
+I am a completely gifted and tough-working character with a lot to offer. My passion for technology and dedication to serving customers, along side robust technical skills and amazing interpersonal talents make them treasured assets to any employer.
 
 
 - 🔭 I’m currently working on Code Byte Technology **Advance Threat Hunting**
@@ -9,7 +11,7 @@ I'm **[`Mr.LionHacker404`](https://www.youtube.com/@LionHacker404)**, I’m a Pr
 
 - 💬 Ask me about **Python and PowerShell**
 
-- 📄 Know about my experiences [Over 6 years experience in IT industry](Over 6 years experience in IT industry)
+- 📄 Know about my experiences [Over 6 years experience in **IT Infrastructure Security**
 
 - ⚡ Fun fact **Coffee and sleepless**
 
@@ -50,3 +52,4 @@ I'm **[`Mr.LionHacker404`](https://www.youtube.com/@LionHacker404)**, I’m a Pr
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/LionCoder101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LionCoder101" /></a><a href="https://ko-fi.com/LionCoder101"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LionCoder101" /></a></p><br><br>
+
