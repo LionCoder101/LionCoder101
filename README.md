@@ -63,8 +63,6 @@ If my work has been useful, you can support me here. **Click a button to open it
 
 <br />
 
-<sub>WavePay and KBZPay buttons open the QR image in this repository.</sub>
-
 </div>
 
 ---
