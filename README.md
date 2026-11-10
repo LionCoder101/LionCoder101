@@ -59,7 +59,7 @@ If my work has been useful, you can support me here. **Click a button to open it
 
 <a href="wave.jpg"><img src="https://img.shields.io/badge/🌊%20WavePay-Scan%20QR-00A9CE?style=for-the-badge" alt="WavePay QR code" /></a>&nbsp;&nbsp;
 <a href="kpay.jpg"><img src="https://img.shields.io/badge/💙%20KBZPay-Scan%20QR-1677D2?style=for-the-badge" alt="KBZPay QR code" /></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/LionCoder101"><img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee" /></a>
+
 
 <br />
 
